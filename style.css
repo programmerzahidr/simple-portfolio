@@ -1,0 +1,86 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: #5F1AE7;
+    color: aliceblue;
+}
+/*---------------
+     Banner-area
+------------------ */
+
+.full-banner{
+    display: flex;
+    margin: 50px;
+}
+p{
+    line-height: 20px;
+}
+.banner{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+span{
+    color: #ff0066;
+}
+.banner a{
+    text-decoration: none;
+    color: #ff0066;
+    font-size: 25px;
+    font-weight: 600;
+    border: 1px solid;
+}
+.banner-image img{
+    width: 600px;
+}
+
+/*---------------
+    End of Banner-area
+------------------ */
+
+/* -------------------
+    Service area
+---------------------- */
+
+.service-heading{
+    text-align: center;
+    color: #ff0066;
+}
+.service-area{
+    display: flex;
+}
+.service{
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    border: 1px solid #ff0066;
+    margin: 40px 30px 50px 58px;
+}
+.service-area img{
+    width: 300px;
+    height: 200px;
+}
+
+/* -------------------
+    About area
+---------------------- */
+
+.about-heading{
+    text-align: center;
+    color: #ff0066;
+}
+.about-section{
+    display: flex;
+}
+.about{
+    margin: 70px;
+}
+.shadow{
+    text-shadow: 5px 1px #ff0066;
+}
+.about a{
+    text-decoration: none;
+    color: #ff0066;
+    font-size: 25px;
+    font-weight: 600;
+    border: 1px solid;
+}
